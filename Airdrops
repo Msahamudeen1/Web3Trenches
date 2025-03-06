@@ -1,0 +1,29 @@
+<div class="button-container">
+    <!-- Existing Buttons -->
+    <button class="editable-button" contenteditable="true" onclick="window.location.href='https://www.example.com'">
+        <img src="https://via.placeholder.com/50" alt="Button Icon">
+        Edit this button
+    </button>
+    <button class="editable-button" contenteditable="true" onclick="window.location.href='https://www.google.com'">
+        <img src="https://via.placeholder.com/50" alt="Button Icon">
+        Edit this button
+    </button>
+    <button class="editable-button" contenteditable="true" onclick="window.location.href='https://www.github.com'">
+        <img src="https://via.placeholder.com/50" alt="Button Icon">
+        Edit this button
+    </button>
+
+    <!-- Add More Buttons Here -->
+    <button class="editable-button" contenteditable="true" onclick="window.location.href='https://www.youtube.com'">
+        <img src="https://via.placeholder.com/50" alt="Button Icon">
+        YouTube
+    </button>
+    <button class="editable-button" contenteditable="true" onclick="window.location.href='https://www.twitter.com'">
+        <img src="https://via.placeholder.com/50" alt="Button Icon">
+        Twitter
+    </button>
+    <button class="editable-button" contenteditable="true" onclick="window.location.href='https://www.linkedin.com'">
+        <img src="https://via.placeholder.com/50" alt="Button Icon">
+        LinkedIn
+    </button>
+</div>
